@@ -1,0 +1,11 @@
+.school{
+    display: flex;
+    justify-content: space-around;
+}
+.xud{
+    display: flex;
+    justify-content: space-around; 
+}
+footer{
+    color: white;
+}
